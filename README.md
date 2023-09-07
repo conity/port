@@ -4,10 +4,7 @@
 ```bash
 wget https://raw.githubusercontent.com/conity/port/main/port.sh && chmod +x port.sh && ./port.sh
 ```
-socat
-```bash
-wget https://raw.githubusercontent.com/conity/port/main/socat.sh && chmod +x socat.sh && ./socat.sh
-```
+
 
 ## 安全配置（ssh）
 ```bash
